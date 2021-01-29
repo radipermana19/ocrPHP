@@ -1,0 +1,2 @@
+# ocrPHP
+Learning OCR
