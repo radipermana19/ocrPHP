@@ -1,2 +1,2 @@
 # ocrPHP
-Learning OCR
+Belajar dan mengingat kembali menggunakan OCR
